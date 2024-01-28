@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="382" height="200" viewBox="0 0 382 200">
+  <rect width="100%" height="100%" fill="#000"/>
+  <g transform="translate(96,-6)">
+    <g transform="scale(4,3)">
+      <g>
+        <path fill="#e0e0e0" d="M45 30.544v-4.247c0-7.506-40-7.506-40 0v4.25c0 5.697 8.954 10.315 20 10.315s20-4.619 20-10.316v-.003z"/>
+        <path fill="#666" d="M45 26.297a20 10.316 0 0 1-20 10.315A20 10.316 0 0 1 5 26.297a20 10.316 0 0 1 40 0z"/>
+      </g>
+      <g>
+        <path fill="#e15b64" d="M40.75 24.621V17.93c0-7.017-31.5-7.017-31.5 0v6.694c0 4.487 7.051 8.123 15.75 8.123s15.75-3.637 15.75-8.123l-.001-.002z"/>
+        <path fill="#c33737" d="M40.75 17.93A15.75 8.123 0 0 1 25 26.053 15.75 8.123 0 0 1 9.25 17.93a15.75 8.123 0 0 1 31.5 0z"/>
+      </g>
+    </g>
+  </g>
+  <text fill="#ffffff" font-size="16pt" x="50%" y="152" dominant-baseline="middle" text-anchor="middle">Please do not push the red button</text>
+</svg>
