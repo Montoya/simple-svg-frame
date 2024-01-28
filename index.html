@@ -9,8 +9,34 @@
       <meta property="fc:frame:image" content="https://homerow.club/red-button/assets/red-button.svg" />
       <meta property="fc:frame:button:1" content="Push the Button" />
       <meta property="fc:frame:post_url" content="https://homerow.club/red-button/push.php" />
+      <link rel="stylesheet" href="https://unpkg.com/spectre.css/dist/spectre.min.css">
+      <style type="text/css">
+        body { 
+          display:flex;
+          justify-content:center;
+          align-items:center;
+          height:100vh;
+          background-color:rgb(132, 101, 203);
+        }
+        #page { 
+          width:760px;
+          background-color:#fff;
+          border-radius:24px;
+          padding:24px 36px;
+        }
+        h1+p { 
+          margin-top:-1em;
+          opacity:0.7; 
+          font-weight:700; 
+        }
+      </style>
   </head>
   <body>
-    Simple SVG Frame Example
+    <div id="page">
+      <h1>Red Button</h1>
+      <p>A very simple Farcaster Frame</p>
+      <p>Want to see the code? Go to: <a href="https://github.com/Montoya/simple-svg-frame/">github.com/Montoya/simple-svg-frame/</a></p>
+      <p>It's open source (MIT License), feel free to use it for your own projects.</p>
+    </div>
   </body>
 </html>
